@@ -17,8 +17,7 @@
   <a href="#what-is-next">What is next</a>
 </p>
 
-![screenshot](https://github.com/mireabot/GitHub-Followers/blob/main/GitHubMain.png)
-![screenshot](https://github.com/mireabot/GitHub-Followers/blob/main/GitHubFeatures.png)
+![screenshot](https://github.com/mireabot/BrewLand/blob/main/BrewLand.png)
 
 ## What I learned?
 
